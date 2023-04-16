@@ -8,26 +8,16 @@ El volcán Poás es uno de los volcanes más conocidos y visitados de Costa Rica
 El volcán Poás ha sido parte importante de la historia de Costa Rica desde hace mucho tiempo. Según Ceruti (2010), los indígenas de la región creían que el volcán era habitado por espíritus y dioses, y le otorgaban un gran respeto. Durante la colonización española, el volcán fue considerado una de las maravillas naturales del país y se convirtió en un destino popular para los visitantes. 
 
 ## Aspectos físicos
-
-El volcán Poás también ha sido objeto de estudio científico durante muchos años. Los geólogos han estado interesados en el volcán debido a su actividad volcánica y su gran cráter. Además, el volcán es conocido por sus lagos ácidos, que son únicos en el mundo y atraen a muchos científicos que buscan entender cómo se formaron y cómo afectan al medio ambiente.
-
+El volcán Poás también ha sido objeto de estudio científico y turismo durante muchos años por sus aspectos físicios. Los geólogos y turistas han estado interesados en el volcán debido a su actividad volcánica y su gran cráter. El trabajo de Induni (2011) describe geologicamente al volcán Poás de la siguiente manera:
+- Es un tipo de volcán llamado estratovolcán.
+- Es caracterizado por su complejidad y grandes dimensiones, que oscilan entre los 300 y 478 km² y los 96 km³. 
+- Su forma es subcónica e irregular, con una amplia cima que se extiende en forma de planicie y presenta fallas, depresiones, conos volcánicos y tres cráteres. 
+- Los tres cráteres son los siguientes:
+1. Cráter principal.
+2. Cráter Von Frantzius.
+3. Cráter o Laguna Botos.
 ## Turismo
 
-El volcán Poás es una importante atracción turística para Costa Rica, y ha sido visitado por millones de personas a lo largo de los años. El Parque Nacional Volcán Poás, que rodea el volcán, ofrece una gran cantidad de senderos, miradores y otros sitios de interés para los visitantes. Además, la vista panorámica del cráter del volcán es impresionante y atrae a muchos turistas.
+El Parque Nacional Volcán Poás, es una importante atracción turística para Costa Rica, y ha sido visitado por millones de personas a lo largo de los años. Este parque rodea el volcán y ofrece una gran cantidad de senderos, miradores y otros sitios de interés para los visitantes. Según la página web del SINAC, el área protegidada cuenta con la **Certificación de Sostenibilidad Turística (CST)**. Además, la vista panorámica del cráter del volcán es impresionante y atrae a muchos turistas. Puede coneguir entradasa al Parque Nacaional [en la página web del SINAC](https://www.sinac.go.cr/ES/ac/accvc/pnvp/Paginas/default.aspx)	
+![Imagen local](img/crater.jpg) *Imágen recuperada de: https://fpn-cr.org/area/parque-nacional-volcan-poas/*
 
-## Agricultura
-
-El área alrededor del volcán Poás es rica en suelos volcánicos, lo que lo hace ideal para la agricultura. En particular, el cultivo de fresas se ha convertido en una importante fuente de ingresos para la región. La combinación de los suelos fértiles y el clima fresco de las montañas hacen que la región sea perfecta para el cultivo de estas frutas.
-
-
-## Imágenes
-
-A continuación, se muestran dos imágenes del volcán Poás. La primera es una imagen local tomada desde el Parque Nacional Volcán Poás. La segunda es una imagen remota tomada por un satélite de la NASA.
-
-![Volcán Poás - Imagen local](poas_local.jpg)
-
-
-
-## Hipervínculos
-
-Si estás interesado en visitar el volcán Poás, puedes obtener más información sobre el Parque Nacional Volcán Poás en la página web del Sistema Nacional de Áreas de Conservación (https://www.sinac.go.cr/). Además, si deseas conocer más sobre la historia y la cultura costarricense, te recomendamos visitar la página web de la Instituto Costarricense de Turismo (https://www.visitcostarica.com/es).
