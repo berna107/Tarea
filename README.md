@@ -27,3 +27,9 @@ El Parque Nacional Volcán Poás, es una importante atracción turística para C
 El área alrededor del volcán Poás es rica en suelos volcánicos, lo que lo hace ideal para la agricultura. En particular, el cultivo de fresas se ha convertido en una importante fuente de ingresos para la región. La combinación de los suelos fértiles y el clima fresco de las montañas hacen que la región sea perfecta para el cultivo de estas frutas (Portalfruticola, 2013).
 El programa Giros de la cadena televisiva Repretel, presentó un [reportaje especial sobre el cultivo de fresas en la zona.](https://www.youtube.com/watch?v=0SXuLWbFxbk)
 
+## Referencias bibliográficas
+- Arias, L. M., & Chavarría, C. A. (2011). DINÁMICA TERRITORIAL ASOCIADA A LA ACTIVIDAD AGROPECUARIA EN EL CANTÓN DE POÁS, ALAJUELA. Revista Geográfica De América Central, 1(46), 155–184. http://www.redalyc.org/pdf/4517/451744670007.pdf 
+- Ceruti, M. C. (2010). LOS VOLCANES SAGRADOS EN EL FOLCLORE Y LA ARQUEOLOGIA DE COSTA RICA. Mitológicas, XXV. https://www.redalyc.org/articulo.oa?id=14615247003 
+- Equipo Portalfruticola.com. (2013, October 31). Costa Rica: Productores de fresa de Poasito de Alajuela y Vara Blanca de Heredia incorporan buenas prácticas en su producción - PortalFruticola.com. PortalFruticola.com. https://www.portalfruticola.com/noticias/2013/10/31/costa-rica-productores-de-fresa-de-poasito-de-alajuela-y-vara-blanca-de-heredia-incorporan-buenas-practicas-en-su-produccion/ 
+- Induni, G. E. A. (2011). Los volcanes de Costa Rica: geología, historia, riqueza natural y su gente. EUNED. Sistema Nacional de Áreas de Conservación [SINAC]. (n.d.). Parque Nacional Volcán Poás. https://www.sinac.go.cr/ES/ac/accvc/pnvp/Paginas/default.aspx
+- Giros Repretel. (2017). Las fresas de Poasito de Alajuela [Video]. YouTube. https://www.youtube.com/watch?v=0SXuLWbFxbk
